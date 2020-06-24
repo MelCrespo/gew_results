@@ -2,7 +2,7 @@
 
 **NOTE:** The material presented here is for academic and non-profit purposes only. The lyrics presented are the intellectual property of the artists in question.
 
-As a result, a total of $268$ different artists were found in the corpus whose entropy values are shown in the next Table:
+As a result, a total of 268 different artists were found in the corpus whose entropy values are shown in the next Table:
 
 No. | Autor | Entropy
 --- | --- | ---
@@ -275,7 +275,7 @@ No. | Autor | Entropy
 266 | Insane Clown Posse | 14.505658798910586
 267 | LL Cool J | 14.594832744401637
 
-The entropy values found in this corpus were in the interval $[12.481553, 14.594833]$, we suppose the smallness of this interval is given by the English grammatical rules. Nevertheless, even small variations of entropy have repercussions in the POS n-grams distributions. As an example of this, we took the POS n-gram distribution with the lower entropy corresponding to *Nirvana* with a value of $12.481553$ and the POS n-gram distribution with the higher entropy corresponding to *LL Cool J* with a value of $14.594833$.
+The entropy values found in this corpus were in the interval [12.481553, 14.594833], we suppose the smallness of this interval is given by the English grammatical rules. Nevertheless, even small variations of entropy have repercussions in the POS n-grams distributions. As an example of this, we took the POS n-gram distribution with the lower entropy corresponding to *Nirvana* with a value of 12.481553 and the POS n-gram distribution with the higher entropy corresponding to *LL Cool J* with a value of 14.594833.
 
 A value of high entropy means that the variety of syntactical structures used by artists in their lyrics is wider than those of artists whose lyrics entropy is lower.
 
