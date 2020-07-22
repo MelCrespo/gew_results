@@ -6,7 +6,7 @@
 1. [Entropy values](#table)
 2. [Example instances](#instances)
 
-### Entropy values <a name="table"></a>
+## Entropy values <a name="table"></a>
 
 In the next Table we can see that the bottom ten is almost filled by rap artists which are well known to use complex grammar structures as well as a diversity of word combinations (a feature that is very appreciated in rap). It is worth noting that in the same order of entropy is Bob Dylan who won the Nobel Prize in Literature 2016 awarded "for having created new poetic expressions within the great American song tradition".
 
@@ -281,7 +281,7 @@ Rank | Author | Entropy | Genre
 266 | Insane Clown Posse | 14.5056588 | Rap
 267 | LL Cool J | 14.59483274 | Hip Hop
 
-### Example instances <a name="instances"></a>
+## Example instances <a name="instances"></a>
 
 We suppose the smallness of the interval found in the entropy values is given by the English grammatical rules since these tend to follow a normal distribution. Nevertheless, even such small variations of entropy have high repercussion in the use of different POS *n*-grams by the artists in their lyrics. As an example of this, we took a random lyric of the artist with the lower entropy corresponding to *Nirvana* with a value of 12.4815 and a random lyric of the artist with the higher entropy corresponding to *LL Cool J* with a value of 14.5948, where the variety of POS *n*-grams used is notorious. Such instances can be seen in the as follows:
 
