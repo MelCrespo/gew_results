@@ -92,7 +92,7 @@ Rank | Author | Entropy | Genre
 83 | Offspring | 13.48478303 | Punk
 84 | Alison Krauss | 13.49668372 | Country
 85 | Otis Redding | 13.50117082 | Soul
-86 | "Harry Connick |  Jr." | 13.50381022 | Jazz
+86 | Harry Connick Jr. | 13.50381022 | Jazz
 87 | Keith Urban | 13.50663766 | Country
 88 | The Monkees | 13.50848208 | Rock
 89 | Gary Numan | 13.51330221 | Rock
