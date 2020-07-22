@@ -5,7 +5,7 @@
 In the next Table we can see that the bottom ten is almost filled by rap artists which are well known to use complex grammar structures as well as a diversity of word combinations (a feature that is very appreciated in rap). It is worth noting that in the same order of entropy is Bob Dylan who won the Nobel Prize in Literature 2016 awarded "for having created new poetic expressions within the great American song tradition".
 
 Rank | Author | Entropy | Genre
---- | --- | ---
+--- | --- | --- | ---
 0 | Nirvana | 12.48155348 | Rock
 1 | Planetshakers | 12.60793814 | Christian Music
 2 | Yngwie Malmsteen | 12.9454808 | Metal
