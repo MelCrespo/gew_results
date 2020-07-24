@@ -10,7 +10,7 @@
 
 In the next Table we can see that the bottom ten is almost filled by rap artists which are well known to use complex grammar structures as well as a diversity of word combinations (a feature that is very appreciated in rap). It is worth noting that in the same order of entropy is Bob Dylan who won the Nobel Prize in Literature 2016 awarded "for having created new poetic expressions within the great American song tradition".
 
-Id | Author | Entropy | General Genre
+Id | Author | Entropy | Genre
 --- | --- | --- | ---
 1 | LL Cool J | 14.59483274 | Hip Hop
 2 | Insane Clown Posse | 14.5056588 | Rap
